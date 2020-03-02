@@ -1,6 +1,4 @@
-# Alec Rental App
-
-The rental app is a simple app for making and editing Car Rental reservations.
+# Rental App
 
 ## Front-End
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -33,7 +31,5 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Back-End
-Start the node server using 
-
-`npm start`
+The backend uses an express server, to run the server simply navigate to `/Backend` and run `npm start`.
 
